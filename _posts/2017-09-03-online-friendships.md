@@ -6,7 +6,7 @@ date: '2017-05-05'
 ---
 There’s a greentext story which I remember.
 
-![6EB2lPJ.jpg]({{site.baseurl}}/img/6EB2lPJ.jpg)
+[6EB2lPJ.jpg]({{site.baseurl}}/img/6EB2lPJ.jpg)
 
 The thing about the internet is that you gain the ability to communicate with so many people, all over the world. You meet people from all walks of life, all sorts of backgrounds.
 

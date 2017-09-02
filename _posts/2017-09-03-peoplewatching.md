@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Peoplewatching
-date: '2017-06-08'
+date: '2017-04-08'
 ---
 I saw a rather cute sight on the metro today. There was this man standing with a woman, and they were talking with each other. He kept his hand on her arm, kept squeezing it every now and then, and he was smiling while talking to her. It was quite obvious that he had strong feelings for her. If not that, certainly very attracted.
 

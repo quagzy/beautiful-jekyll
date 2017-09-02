@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 2017-04-05-Watching-Anime-in-Class-Can-be-Dangerous
+title: Watching Anime in Class Can be Dangerous
 date: '2017-04-05'
 ---
 

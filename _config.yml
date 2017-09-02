@@ -23,7 +23,7 @@ description: (Or Don't, I'm Not a Cop)
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Hmm. Guess I should put something here. Well, I write and stuff. If you want to contact me, you can do so at quagzlor.d@gmail.com"
+  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -42,7 +42,7 @@ author:
   email: "quagzlor.d@gmail.com"
   github: quagzy    # eg. daattali
   reddit: quagzlor    # eg. daattali
-  steam: take a wild guess, buddy (it's quagzlor)     # eg. daattali
+  steam: quagzlor     # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:

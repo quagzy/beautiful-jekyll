@@ -9,3 +9,9 @@ css: "/css/super-search.css"
 	<input type="text" placeholder="Type here to search" class="super-search__input" id="js-super-search__input">
 	<ul class="super-search__results" id="js-super-search__results"></ul>
 </div>
+superSearch({
+	searchFile: '/feed.xml',
+	searchSelector: '#js-super-search', // CSS Selector for search container element.
+	inputSelector: '#js-super-search__input', // CSS selector for <input>
+	resultsSelector: '#js-super-search__results' // CSS selector for results container
+});

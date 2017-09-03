@@ -1,17 +1,16 @@
----
-layout: default
-title: "Search jasdumas.github.io"
-css: "/css/super-search.css"
----
-   
-<div class="super-search" id="js-super-search">
-	<a href="javascript:void(0)" onclick="superSearch.toggle()" class="super-search__close-btn">X</a>
-	<input type="text" placeholder="Type here to search" class="super-search__input" id="js-super-search__input">
-	<ul class="super-search__results" id="js-super-search__results"></ul>
-</div>
-superSearch({
-	searchFile: '/feed.xml',
-	searchSelector: '#js-super-search', // CSS Selector for search container element.
-	inputSelector: '#js-super-search__input', // CSS selector for <input>
-	resultsSelector: '#js-super-search__results' // CSS selector for results container
-});
+<link rel="stylesheet" href="super-search.css">
+<body>
+
+ <h2>Press ESC or '/' key to open search</h2>
+ <div class="super-search" id="js-super-search">
+  <a href="javascript:void(0)" onclick="superSearch.toggle()" class="super-search__close-btn">X</a>
+  <input type="text" placeholder="Type here to search" class="super-search__input" id="js-super-search__input">
+  <ul class="super-search__results" id="js-super-search__results"></ul>
+ </div>
+
+ <script src="super-search.js"></script>
+ <script>superSearch({
+ 	// Change to your own rss feed file path
+ 	searchFile: '//quagzy.github.io/feed/rss.xml'
+ });</script>
+</body>

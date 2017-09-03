@@ -23,7 +23,7 @@ description: What, You Want a Description?
 
 # List of links in the navigation bar
 navbar-links:
- About Me:"intro"
+  About Me: "aboutme"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -78,10 +78,10 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: "testblog-13"
+disqus: "testblog-13"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-105800111-1"
+google_analytics: "UA-105800111-1"
 
 # Google Tag Manager ID
 #gtm: ""

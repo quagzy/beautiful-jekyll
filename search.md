@@ -3,8 +3,6 @@ layout: default
 title: "Search jasdumas.github.io"
 css: "/css/super-search.css"
 ---
-  
-## Search username.github.io with Super-Search!
    
 <div class="super-search" id="js-super-search">
 	<a href="javascript:void(0)" onclick="superSearch.toggle()" class="super-search__close-btn">X</a>

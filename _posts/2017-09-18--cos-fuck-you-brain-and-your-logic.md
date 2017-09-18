@@ -21,5 +21,3 @@ Then I come across her during dinner at the mess today. Say hi, we're both with 
 Aaaaand... yup. All that convincing myself I did? Hah, screw that, that shit's nothing.
 
 Well, fuck.
-
-Quick Edit: I did show her this blog once, so on the veeeeeery off chance that she's reading this. Um. Hi. I was planning on telling you, I'm not that much of a wuss. But um... yeah.

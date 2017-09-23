@@ -15,3 +15,4 @@ Almost something out of the end of a movie. But damn, that's some good music.
 
 
 Also, more on Path of Fire later, once I finish the story. But so far I love it.
+I also plan to write more about Nier: Automata, when I get the time... and remember.

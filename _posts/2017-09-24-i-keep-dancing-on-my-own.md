@@ -11,3 +11,7 @@ I mean I'm up at 2 am playing through Guild Wars 2 Path of Fire, when the server
 Not just sitting in my chair moving my torso either. I mean legwork too, it's just too good. Quite a rarity. Just the music playing, the entire house is quiet (am home for the weekend), completely dark outside, and I'm just groovin' to the music. 
 
 Almost something out of the end of a movie. But damn, that's some good music.
+
+
+
+Also, more on Path of Fire later, once I finish the story. But so far I love it.

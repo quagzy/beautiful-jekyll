@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Crystal Desert Trailblazer
-date: '2017-10-08'
+date: '2017-10-07'
 ---
 So I actually finished Guild Wars 2's Path of Fire expansion a while back. Just haven't gotten around to writing about it.
 

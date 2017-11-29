@@ -25,3 +25,5 @@ Something personal, something incredibly fun. I'd have to hide when I heard the 
 Or sneakily run off and capture an objective on the other side of the map.
 
 Man, if only Shadowplay worked, I could have recorded it.
+
+Guess it'll have to just stay in my memory. Sure is one to keep.

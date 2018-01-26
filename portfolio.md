@@ -24,3 +24,9 @@ The projects are listed from oldest to latest. My year of study at the time of t
     * The program can detect antonym and negation contradictions.
     
     * I worked with a team on this. My role was creating datasets and formatting public datasets to work with our system.
+    
+4. LDR Speedometer (2nd year)
+
+	* A speedometer made using an arduino uno and two light dependent resistors.
+    
+    * I worked with a team on this. My role was setting up the hardware on a breadboard, and modifying the program on the arduino.

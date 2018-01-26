@@ -25,7 +25,7 @@ description: What, You Want a Description?
 navbar-links:
   About Me: "aboutme"
   Blog Search: "search"
-  Anime/Manga I Follow: "https://docs.google.com/spreadsheets/d/1_h1FangywkTGNTNsm6pVvEYIymGcsJZbU_9E9s4p_cw/edit?usp=sharing"
+  My CS Projects: "portfolio"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)

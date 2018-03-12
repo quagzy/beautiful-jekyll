@@ -18,4 +18,4 @@ It has a good story. It's that simple. It's something that forgives so much of t
 
 The characters have ambitions and plans, they have some depth, they have events which have shaped them and which will continue to do so. It's a story that I can sort of relate to, considering I do have an interest in writing, heck, which pushed me to write this after such a long period of silence.
 
-Something that pushed me to write even when no one will read.
+Something that pushed me to write even when no one will read. 

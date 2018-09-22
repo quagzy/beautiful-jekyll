@@ -8,6 +8,8 @@ Finished my first Deathwatch kill team, Kill Team Lambda. Posting here as a reco
 
 ![]({{site.baseurl}}/img/IMG_20180825_144947.jpg)
 
+![]({{site.baseurl}}/img/IMG_20180825_144947.jpg)
+
 ![]({{site.baseurl}}/img/IMG_20180825_144555.jpg)
 
 ![]({{site.baseurl}}/img/IMG_20180825_144600.jpg)

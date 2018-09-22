@@ -7,6 +7,7 @@ date: '2018-09-22'
 Finished my first Deathwatch kill team, Kill Team Lambda. Posting here as a record.
 
 
+![]({{site.baseurl}}/img/IMG_20180825_144947.jpg)
 
 ![]({{site.baseurl}}/img/IMG_20180825_144555.jpg)
 
